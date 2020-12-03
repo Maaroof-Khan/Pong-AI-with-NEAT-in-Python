@@ -5,4 +5,4 @@ This is a basic level NEAT implementation in Python
 
 The credit for the game code goes to: Clear Code - https://www.youtube.com/channel/UCznj32AM2r98hZfTxrRo9bQ
 
-This is my first time uding GitHub so take it easy on me
+This is my first time using GitHub so take it easy on me
